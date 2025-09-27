@@ -1,0 +1,7 @@
+/Users/user/Amir/internship_task/Task3/LcmApi/bin/Release/net9.0/publish/LcmApi
+/Users/user/Amir/internship_task/Task3/LcmApi/bin/Release/net9.0/publish/appsettings.Development.json
+/Users/user/Amir/internship_task/Task3/LcmApi/bin/Release/net9.0/publish/appsettings.json
+/Users/user/Amir/internship_task/Task3/LcmApi/bin/Release/net9.0/publish/LcmApi.dll
+/Users/user/Amir/internship_task/Task3/LcmApi/bin/Release/net9.0/publish/LcmApi.deps.json
+/Users/user/Amir/internship_task/Task3/LcmApi/bin/Release/net9.0/publish/LcmApi.runtimeconfig.json
+/Users/user/Amir/internship_task/Task3/LcmApi/bin/Release/net9.0/publish/LcmApi.pdb
