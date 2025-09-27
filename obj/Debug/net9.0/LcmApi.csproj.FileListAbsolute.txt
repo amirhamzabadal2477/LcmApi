@@ -21,3 +21,4 @@
 /Users/user/Amir/internship_task/Task3/LcmApi/obj/Debug/net9.0/LcmApi.pdb
 /Users/user/Amir/internship_task/Task3/LcmApi/obj/Debug/net9.0/LcmApi.genruntimeconfig.cache
 /Users/user/Amir/internship_task/Task3/LcmApi/obj/Debug/net9.0/ref/LcmApi.dll
+/Users/user/Amir/internship_task/Task3/LcmApi/obj/Debug/net9.0/LcmApi.sourcelink.json
