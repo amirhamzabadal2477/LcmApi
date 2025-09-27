@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: LcmApi
+    env: docker
+    branch: main
+    autoDeploy: true
+    dockerfilePath: Dockerfile
