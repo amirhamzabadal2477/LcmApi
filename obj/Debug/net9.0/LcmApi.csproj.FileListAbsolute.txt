@@ -22,3 +22,9 @@
 /Users/user/Amir/internship_task/Task3/LcmApi/obj/Debug/net9.0/LcmApi.genruntimeconfig.cache
 /Users/user/Amir/internship_task/Task3/LcmApi/obj/Debug/net9.0/ref/LcmApi.dll
 /Users/user/Amir/internship_task/Task3/LcmApi/obj/Debug/net9.0/LcmApi.sourcelink.json
+/Users/user/Amir/internship_task/Task3/LcmApi/bin/Debug/net9.0/publish/web.config
+/Users/user/Amir/internship_task/Task3/LcmApi/bin/Debug/net9.0/publish/appsettings.Development.json
+/Users/user/Amir/internship_task/Task3/LcmApi/bin/Debug/net9.0/publish/appsettings.json
+/Users/user/Amir/internship_task/Task3/LcmApi/bin/Debug/net9.0/publish/LcmApi.deps.json
+/Users/user/Amir/internship_task/Task3/LcmApi/bin/Debug/net9.0/publish/LcmApi.runtimeconfig.json
+/Users/user/Amir/internship_task/Task3/LcmApi/bin/Debug/net9.0/publish/LcmApi.staticwebassets.endpoints.json
